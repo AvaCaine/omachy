@@ -98,8 +98,7 @@ Post installation SPEAR install.
 ```
 
 ## Using Spear
-
-# Spear
+### Spear
 A MacOS utility for toggling corners/corner radii to eliminate gaps between windows and corners of screen.
 <br>
 Install latest version of spear and run:
@@ -113,14 +112,6 @@ chmod +x setup.sh
 cd
 ```
 <br>
-
-## Try it with...
-Try Spear with Omachy (not to be confused with omarchy) Omachy feels like hyprland/is a configuration of aerospace coming with a neat custom top bar. Turns the desktop into what feels like an entirely different desktop environment. Omachy doesn't customize borders. Try Spear with it! <br>
-(Omachy)[https://omachy.org/] <br>
-Install Omachy with this command:
-```bash
-brew tap dough654/omachy && brew install omachy && omachy install
-```
 
 ## Set up Spear commands
 
