@@ -164,7 +164,8 @@ Run the following command <br>
 ```bash
 ./uninstall.sh
 ```
-
+## Back to Omachy
+<br>
 ### Building from source
 
 ```bash
