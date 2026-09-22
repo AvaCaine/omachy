@@ -167,7 +167,7 @@ Run the following command <br>
 <br>
 <br>
 
-## Back to Omachy
+# Back to Omachy
 <br>
 
 ### Building from source
