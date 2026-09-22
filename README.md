@@ -93,6 +93,8 @@ omachy install
 ```
 <br>
 Post installation SPEAR install.
+<br>
+
 ```bash
 ./spear/setup.sh
 ```
